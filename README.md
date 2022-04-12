@@ -1,0 +1,3 @@
+<h2>Web Development A-Level NEA (73/75 Marks)</h2>
+
+For My A-Level Coursework, I Made A Full Website From Scratch Learning All The Programming Languages Myself And Completed This In 5 Months. This Report Encompasses The Whole Process With Various Aspects Of The Process Such As The Idea, Design, Implementation, Testing And Evaluation With YouTube Links In The Report Of The Final Websites' Design And Features. In This Project I Used Various Languages Like PHP, MySQL, HTML, CSS, JavaScript And jQuery. For This Coursework, I Recieved The Highest Mark In The History Of My Sixth-Form College With 73/75
